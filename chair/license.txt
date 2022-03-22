@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bamboo Chair
+* source:	https://sketchfab.com/3d-models/bamboo-chair-2f669802a6b343b3a786a08f9503b0f3
+* author:	RageDevil (https://sketchfab.com/RageDevil)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bamboo Chair" (https://sketchfab.com/3d-models/bamboo-chair-2f669802a6b343b3a786a08f9503b0f3) by RageDevil (https://sketchfab.com/RageDevil) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
