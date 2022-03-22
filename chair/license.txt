@@ -1,0 +1,11 @@
+Model Information:
+* title:	Free Chair! (Raw Scan)
+* source:	https://sketchfab.com/3d-models/free-chair-raw-scan-5b254c22d7ac4d448138b6290e1c2d27
+* author:	Renafox (https://sketchfab.com/kryik1023)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Free Chair! (Raw Scan)" (https://sketchfab.com/3d-models/free-chair-raw-scan-5b254c22d7ac4d448138b6290e1c2d27) by Renafox (https://sketchfab.com/kryik1023) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
