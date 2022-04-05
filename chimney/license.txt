@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fire Place Decor 1.5x1.5x3
+* source:	https://sketchfab.com/3d-models/fire-place-decor-15x15x3-c0a68f0eda3c4115a91f03547786eb3f
+* author:	moyicat (https://sketchfab.com/moyicat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fire Place Decor 1.5x1.5x3" (https://sketchfab.com/3d-models/fire-place-decor-15x15x3-c0a68f0eda3c4115a91f03547786eb3f) by moyicat (https://sketchfab.com/moyicat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
