@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plant
+* source:	https://sketchfab.com/3d-models/plant-9dc8d0836aa04a3baa38bd5630f75924
+* author:	Bindestrek (https://sketchfab.com/KNUT-OLAV_UTISTOG)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plant" (https://sketchfab.com/3d-models/plant-9dc8d0836aa04a3baa38bd5630f75924) by Bindestrek (https://sketchfab.com/KNUT-OLAV_UTISTOG) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
