@@ -1,0 +1,11 @@
+Model Information:
+* title:	Picture frame
+* source:	https://sketchfab.com/3d-models/picture-frame-af199ff482b24def9e8216d318c39a79
+* author:	hako (https://sketchfab.com/hako25AI)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Picture frame" (https://sketchfab.com/3d-models/picture-frame-af199ff482b24def9e8216d318c39a79) by hako (https://sketchfab.com/hako25AI) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
