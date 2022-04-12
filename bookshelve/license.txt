@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bookcase
+* source:	https://sketchfab.com/3d-models/bookcase-7a545709aa98429a9b30f812f70193f7
+* author:	joseph.casey97 (https://sketchfab.com/joseph.casey97)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bookcase" (https://sketchfab.com/3d-models/bookcase-7a545709aa98429a9b30f812f70193f7) by joseph.casey97 (https://sketchfab.com/joseph.casey97) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
