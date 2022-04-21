@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sphinx
+* source:	https://sketchfab.com/3d-models/sphinx-2026a8eeff6e4486a314abf7cc3da824
+* author:	Mohab Mohamed Naguib (https://sketchfab.com/hobamohahebo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sphinx" (https://sketchfab.com/3d-models/sphinx-2026a8eeff6e4486a314abf7cc3da824) by Mohab Mohamed Naguib (https://sketchfab.com/hobamohahebo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
